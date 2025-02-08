@@ -1,6 +1,6 @@
 # DSIN Coder Challenge
 
-Resoluções dos 3 desafios da 4º Edição do DSIN Coder Challenge 2024, que aconteceu em outubro de 2024.
+Resoluções dos desafios da 4º Edição do DSIN Coder Challenge 2024, que aconteceu em outubro de 2024.
 
 # Desafio 1
 O desafio 1 foi um desafio de raciocínio lógico, em que não era necessário a utilização de nenhuma linguagem de programação para resolve-lo.
